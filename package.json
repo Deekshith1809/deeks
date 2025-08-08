@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Deekshith1809.github.io/ghpages",
+  "homepage": "https://Deekshith1809.github.io/deeks",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
